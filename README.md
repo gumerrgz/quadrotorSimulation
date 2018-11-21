@@ -16,8 +16,8 @@ Python 2.7 and Pygame installed
 
 ## Authors
 
-Gumer Rodriguez 
-This project was developed in the Robotics Lab of Cologne University of Applied Sciences
+* Gumer Rodriguez 
+* This project was developed in the Robotics Lab of Cologne University of Applied Sciences
 
 ## Acknowledgments
 
